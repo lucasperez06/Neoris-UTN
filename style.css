@@ -1,0 +1,67 @@
+html {
+    font-family: 'Jim Nightshade', cursiva;
+font-family: 'Poppins', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color:#75C6AD; 
+}
+header {
+    background-color: #527423;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+header h1 {
+    font-size:2rem ;
+    text-align: center;
+}
+
+.container {
+    width: 400px; 
+    margin: 0 auto;
+
+}
+
+section article {
+    background-color: rgb(252, 248, 248) ;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    
+}
+
+section article h2, section article p {
+    margin: 2rem;
+font-size: 2rem;
+    text-align: center;
+    
+
+}
+
+footer {
+    background-color: #527423;
+    padding: 3rem;
+    color: #fff;
+}
+
+footer section {
+    float: right;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+footer a:hover {
+    color: #0a40d4;
+
+}
